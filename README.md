@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u8cn8mr0tsfit5lv?svg=true)](https://ci.appveyor.com/project/aschursina/ajs-hw-matchers)
